@@ -148,5 +148,5 @@ beware of premature optimzation
 
 '''
 desmo graph
-www.desmo
+www.desmo.com
 '''
